@@ -52,7 +52,7 @@ Table of domains and targeting phishing brand:
 | Server-35    | fse30tnp6p0ewtru05fcc3g04qlneyz4hl9lbz0nl6jqqtubz1.xyz | PayPal         |
 | Server-36    | r11fvi4b9s59fato50mcbd3b1pk5q7l2mvgahcnedwzaongnlv.xyz | IRS            |
 
-Note: Even though we informed Digital Ocean to not to block our phishing site, 5 of the phishing sites (Server-17, 21, 23, 24, 25) were blacklisted by Namesilo. Server-21, 23, 25 were blacklisted on 03/25/2019, Server-17 were blacklisted on 04/05/2019, and Server-24 were blacklisted on 04/08/2019. That's why these 5 phishing sites do not have all the four-week network requests.
+Note: Even though we informed Digital Ocean to not to block our phishing site, 5 of the phishing sites (Server-17, 21, 23, 24, 25) were blacklisted by Namesilo. Server-21, 23, 25 were blacklisted on 03/25/2019, Server-17 was blacklisted on 04/05/2019, and Server-24 were blacklisted on 04/08/2019. That's why these 5 phishing sites do not have all the four-week network requests.
 
 
 
